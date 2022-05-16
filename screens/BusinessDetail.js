@@ -1,8 +1,8 @@
-import * as React from 'react';
-import { View } from 'react-native';
+import React from 'react';
+import {Text} from 'react-native';
 
-export default class BusinessDetail extends React.Component {
-  render() {
-    return <View />;
-  }
-}
+import Chart from '../components/Chart';
+
+export default BusinessDetail = () => {
+  return <Chart />;
+};

@@ -1,5 +1,5 @@
 //
-//  Chart.swift
+//  BarViewManager.swift
 //  BusinessIntelligence
 //
 //  Created by David Rankin on 5/16/22.
